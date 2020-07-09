@@ -25,7 +25,6 @@ certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
 clarifai==2.6.2
-command-not-found==0.3
 config42==0.3.2
 configparser==3.8.1
 constantly==15.1.0
