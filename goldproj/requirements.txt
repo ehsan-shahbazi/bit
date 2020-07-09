@@ -3,7 +3,6 @@ amqp==1.4.9
 anaconda==0.0.1.1
 anyjson==0.3.3
 appdirs==1.4.4
-apturl==0.5.2
 argcomplete==1.8.1
 asgiref==3.2.7
 asn1crypto==0.24.0
