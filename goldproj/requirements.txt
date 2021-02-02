@@ -14,7 +14,7 @@ Babel==2.4.0
 bcolz==1.2.1
 beautifulsoup4==4.8.0
 billiard==3.3.0.23
-bleach==3.1.0
+bleach==3.3.0
 blessings==1.7
 blis==0.4.1
 bs4==0.0.1
