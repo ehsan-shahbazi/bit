@@ -8,7 +8,7 @@ asgiref==3.2.7
 asn1crypto==0.24.0
 astunparse==1.6.3
 attrs==19.3.0
-autobahn==20.6.2
+autobahn==20.12.3
 Automat==20.2.0
 Babel==2.4.0
 bcolz==1.2.1
